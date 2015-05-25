@@ -4,11 +4,11 @@ subtitle: Yogurt
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: stonyfield.png
-thumbnail: stonyfield.png
+img: aromatica-logo.png
+thumbnail: aromatica-logo.png
 alt: image-alt
 project-date: April 2014
-client: Stony Field
+client: Aromatica Organics
 category: Yogurt
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 

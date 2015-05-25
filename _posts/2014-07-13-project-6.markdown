@@ -4,8 +4,8 @@ subtitle: Pineapple Promo
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: dole_logo.jpeg
-thumbnail: dole_logo.jpeg
+img: dole-logo.png
+thumbnail: dole-logo.png
 alt: image-alt
 project-date: April 2014
 client: Dole Foods
