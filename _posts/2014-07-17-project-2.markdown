@@ -1,6 +1,6 @@
 ---
-title: Stony Field
-subtitle: Yogurt
+title: Aromatica Organics
+subtitle: Rabbit Food
 layout: default
 modal-id: 2
 date: 2014-07-17
