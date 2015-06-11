@@ -18,21 +18,13 @@ people:
   pic: 2
   position: CEO
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
 
 - name: Matt King
   pic: matt
   position: Director
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
 
@@ -40,25 +32,15 @@ people:
   pic: nan
   position: Senior Director
   social:
-    - title: twitter
+    - title: linkedin
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: linkedin
     url: #
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: #
-  - title: bitbucket 
-    url: #
-  - title: github
-    url: #
+
 
 # Postal address (add as many lines as necessary)
 address:
