@@ -19,27 +19,27 @@ people:
   position: CEO
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/jeff-kyer/8/337/a03
 
 - name: Matt King
   pic: matt
   position: Director
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/mattking1212
 
 - name: Nannette Andersen
   pic: nan
   position: Senior Director
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/nannette-andersen/49/847/8b9
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: linkedin
-    url: #
+#social:
+#  - title: linkedin
+#    url: #
 
 
 # Postal address (add as many lines as necessary)
