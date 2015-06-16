@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #F6F6F6;
+    background-color: #f8f7f9;
 }
 
 .navbar-default .navbar-brand {
@@ -202,7 +202,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #F6F6F6;
+    background-color: #f8f7f9;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -215,7 +215,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #F6F6F6;
+    color: #f8f7f9;
 }
 
 .navbar-default .nav li a:hover,
@@ -226,13 +226,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #F6F6F6;
+    color: #f8f7f9;
     background-color: #{{ site.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #F6F6F6;
+    color: #f8f7f9;
     background-color: #{{ site.color.secondary }};
 }
 
@@ -259,7 +259,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #F6F6F6;
+        background-color: #f8f7f9;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
