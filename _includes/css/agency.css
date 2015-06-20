@@ -191,6 +191,10 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand.active {
     color: #{{ site.color.secondary }};
 }
+.navbar-brand img {
+    max-width:120px; 
+    margin-top: -16px;
+}
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
@@ -245,6 +249,11 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
+
+.navbar-brand img {
+    max-width:100px; 
+    margin-top: -16px;
+}
 
     .navbar-default .navbar-brand {
         font-size: 2em;
