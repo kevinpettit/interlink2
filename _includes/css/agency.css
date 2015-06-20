@@ -192,8 +192,8 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.color.secondary }};
 }
 .navbar-brand img {
-    max-width:120px; 
-    margin-top: -16px;
+    max-width:100px; 
+    margin-top: -15px;
 }
 
 .navbar-default .navbar-collapse {
@@ -251,7 +251,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
 .navbar-brand img {
-    max-width:100px; 
+    max-width:120px; 
     margin-top: -16px;
 }
 
