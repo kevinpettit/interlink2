@@ -249,9 +249,11 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
-
+.navbar {
+    min-height: 95px;}
+    
 .navbar-brand img {
-    max-width:130px; 
+    max-width:160px; 
     margin-top: -25px;
 }
 
